@@ -1,0 +1,39 @@
+Column number,Type,Variable,dataClass,Minimum value,Maximum value,Allowable values,Number of blanks,Description
+1,unqiue ID,fish_id,integer,1,2718,1 to infinity,0,Unique identifier for the individual fish
+2,unqiue ID,site_id,integer,1,113,1 to infinity,0,"Unique identifier for the site (i.e., sampling data/sampling location combination)"
+3,site info,year,integer,2018,2020,2001-infinity,0,Year the fish was collected
+4,site info,day,integer,1,31,1 to 31,0,Day of the month that the fish was collected
+5,site info,month,integer,3,7,1 to 12,0,Month of the year that the fish was collected
+6,site info,location,factor,,,"Burdwood, Glacier, Wicklow",0,Location that the fish was collected
+7,fish info,fish_num,integer,1,101,1 to infinity,0,Fish number corresponding to the raw data sheet
+8,fish info,species,factor,,,"chum, pink, sockeye",0,Host fish species
+9,fish info,length,numeric,32,140,20 to 200,4,Fork length (mm) from the fork in the tail to the tip of the snout
+10,fish info,height,numeric,1,32,3 to 50,11,Body depth (mm) at the widest part
+11,lice,Lep_cope,integer,1,36,0 (blank) to infinity,1915,Copepodid-stage L. salmonis
+12,lice,chalA,integer,1,29,0 (blank) to infinity,16164,Chalimus A stageL. salmonis or C. clemensi
+13,lice,chalB,integer,1,23,0 (blank) to infinity,2054,Chalimus B stageL. salmonis or C. clemensi
+14,lice,Lep_PAmale,integer,1,11,0 (blank) to infinity,2463,Pre-adult male L. salmonis
+15,lice,Lep_PAfemale,integer,1,8,0 (blank) to infinity,2556,Pre-adult female L. salmonis
+16,lice,Lep_male,integer,1,1,0 (blank) to infinity,2694,Adult male L. salmonis
+17,lice,Lep_nongravid,integer,1,2,0 (blank) to infinity,2696,"Adult female L. salmonis, has mated but no egg strings"
+18,lice,Lep_gravid,integer,1,1,0 (blank) to infinity,2716,Adult female L. salmonis with egg strings
+19,lice,Caligus_cope,integer,1,19,0 (blank) to infinity,2490,Copepodid-stage C. clemensi
+20,lice,Caligus_mot,integer,1,2,0 (blank) to infinity,2599,Motile male or non-gravid female C. clemensi
+21,lice,Caligus_gravid,integer,1,2,0 (blank) to infinity,2700,"Gravid female C. clemensi, with egg strings"
+22,lice,unid_cope,integer,1,1,0 (blank) to infinity,2709,"Copepodid-stage lice, unidentified species"
+23,lice,chal_unid,integer,,,0 (blank) to infinity,2718,"Chalimus stage lice, unidentified stage (A or B) and unidentified species"
+24,lice,unid_PA,integer,,,0 (blank) to infinity,2718,"Pre-adult lice, unidentified species"
+25,lice,unid_adult,integer,,,0 (blank) to infinity,2718,"Adult lice, unidentified species"
+26,fish health,chal_scar,integer,1,9,0 (blank) to infinity,2161,Number of scars from chalimus stage lice
+27,fish health,pred_scar,integer,1,3,0 (blank)/1,2662,Presence=1/absence=0 of predation scars (noted as fish or bird in comments)
+28,fish health,mot_scar,integer,1,1,0 (blank)/1,2674,Presence=1/absence=0 of motile scars
+29,fish health,hem,integer,1,2,0 (blank)/1,2538,Presence=1/absence=0 of hemorrhaging (location of hemorrhaging noted in comments)
+30,fish health,mateguarding,integer,1,1,0 (blank)/1,2714,"Presence=1/absence=0 of mateguarding sea lice. Note that if either louse in a mateguarding pair could not be definitively ID'ed, it was assumed to be an adult male and pre-adult female."
+31,fish health,eroded_gill,integer,1,2,0 (blank)/1/2,2609,"Presence/absence of eroded gill (0(blank) = absent, 1=one side, 2=both sides)"
+32,fish health,blue_blotches,integer,1,1,0 (blank)/1,2399,Presence=1/absence=0 of blue blotches on host fish
+33,fish health,pinched_belly,integer,1,1,0 (blank)/1,2717,"Presence=1/absence=0 of pinched skin on the underside of the fish, usually associated with a chalimus scar"
+34,fish health,scales,integer,1,1,0 (blank)/1,1814,Presence=1/absence=0 of scales on the host fish
+35,fish health,white_eye        ,integer,1,1,1 (blank)/1,2523,Presence=1/absence=0 of white eye on the host
+36,fish health,Grazed_gill_plate,integer,1,1,1 (blank)/1,2637,Presence=1/absence=0 of grazed gill plates on the host
+37,fish health,Lironca ,integer,1,1,1 (blank)/1,2715,Presence=1/absence=0 of a isopod parasite (Lironeca desterroensis) from the mouths and branchial chambers of salmon
+38,fish health,comments,character,NA,NA,NA,NA,"Comments on fish health, location of hemorrhaging, type of predation scar, etc. Common locations on the fish that we refer to include the adipose fin (ADF), anal fin (ANF), caudal fin (CDF), pectoral fins (PCF), pelvic fins (PVF), dorsal fin (DF), snout, flank, caudal peducle, gill plate, and eye."
