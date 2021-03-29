@@ -43,4 +43,12 @@ Since 2018, CCFS has carried out monitoring of sea-louse infestation levels on w
 
 
 #### Source(s) of funding
+Sitka Foundation, 625 Howe St, Vancouver, BC V6C 2T6, Canada
+Cedar Coast Field Station Society, P.O.Box 1209 Tofino, BC V0R 2Z0
+In-kind contributions of volunteers, equipment, and boat time from Uu-a-thluk Fisheries, Ahousaht Fisheries, Ahousaht Guardians, Salmon Coast Field Station, Fisheries and Oceans Canada and the Hakai Institute.
+
+#### Acknowledgments
+We acknowledge that we operate within the traditional and unceded territories of the Ahousaht and Tla-o-qui-aht Nations. Completing this sampling was a huge team effort and we really appreciate the support from the Cedar Coast crew: Julia Simmerling, Mack Bartlett, Satchel Robertson, Simon Nessman, Claudia Tersigni,  Rowen Monks, Christian Carson, and Kayley Hollyer . We had great external support and would like to thank the crews at Uu-a-thluk Fisheries, Ahousaht Fisheries, Ahousaht Guardians, Salmon Coast Field Station, Fisheries and Oceans Canada and the Hakai Institute. Technical support from Jared Dick, Sean Godwin, Andrew Bateman, Martin Krkosek, and Alexandra Morton. This work would not be possible without the support of Ocean Outfitters,and the Sitka Foundation. 
+
+
 ![image](https://user-images.githubusercontent.com/78099854/111798688-ee05f200-888f-11eb-82a5-68f8d5d34871.png)
