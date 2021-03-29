@@ -2,7 +2,7 @@
 # Monitoring sea-louse parasites on juvenile wild salmon in Clayoquot Sound on the West Coast of Vancouver Island, British Columbia, Canada
 
 This repository contains data from long-term monitoring of juvenile salmon for sea lice, by the [Cedar Coast Field Station](https://www.cedarcoastfieldstation.org/). 
-To view our research, visit (https://www.cedarcoastfieldstation.org/archives).
+To view our research, visit [Archives](https://www.cedarcoastfieldstation.org/archives).
 
 **Last update:** 03/19/2021
  
