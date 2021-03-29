@@ -46,6 +46,7 @@ Since 2018, CCFS has carried out monitoring of sea-louse infestation levels on w
 Sitka Foundation, 625 Howe St, Vancouver, BC V6C 2T6, Canada
 
 Cedar Coast Field Station Society, P.O.Box 1209 Tofino, BC V0R 2Z0
+
 In-kind contributions of volunteers, equipment, and boat time from Uu-a-thluk Fisheries, Ahousaht Fisheries, Ahousaht Guardians, Salmon Coast Field Station, Fisheries and Oceans Canada and the Hakai Institute.
 
 #### Acknowledgments
