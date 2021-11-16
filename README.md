@@ -4,14 +4,14 @@
 This repository contains data from long-term monitoring of juvenile salmon for sea lice, by the [Cedar Coast Field Station](https://www.cedarcoastfieldstation.org/). 
 To view our research, visit [Archives](https://www.cedarcoastfieldstation.org/archives).
 
-**Last update:** 03/19/2021
+**Last update:** 11/26/2021
  
 ## Using the data
 * **Before** using the data, please read the associated metadata (below)!
 
 ## Abstract
 
-This project aims to examine the dynamics between wild juvenile Pacific salmon and sea lice infestation levels in the declining population of wild salmon located in Clayoquot Sound, British Columbia on the West Coast of Vancouver Island. During the 2018, 2019, and 2020 salmon out-migrations, we conducted beach seine surveys and sea lice monitoring in the near-shore environment of Clayoquot Sound. There is a well-established correlation between sea lice abundance on salmon farms and abundance on wild juvenile salmon. The transfer of sea lice to wild salmon can be mitigated by changes to management, notably, the removal of open-net pen salmon farms from migration corridors. By expanding our dataset and solidifying site and sampling consistency, we hope to improve our understanding of the influences of sea lice on juvenile salmon and inform local management strategies. 
+This project aims to examine the dynamics between wild juvenile Pacific salmon and sea lice infestation levels in the declining population of wild salmon located in Clayoquot Sound, British Columbia on the West Coast of Vancouver Island. During the 2018, 2019, 2020, and 2021 salmon out-migrations, we conducted beach seine surveys and sea lice monitoring in the near-shore environment of Clayoquot Sound. There is a well-established correlation between sea lice abundance on salmon farms and abundance on wild juvenile salmon. By expanding our dataset and solidifying site and sampling consistency, we hope to improve our understanding of the influences of sea lice on juvenile salmon and inform local management strategies. 
 
 **Keywords:** aquaculture, conservation, parasite, Pacific salmon, sea lice, host-parasite dynamics
 
